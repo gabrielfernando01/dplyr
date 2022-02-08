@@ -4,7 +4,7 @@ library(ggplot2)
 
 # Usamos un dataset de paises productores de vinos para analizar
 # Iniciamos con los paises con mas registros(que mas producen).
-setwd("~/data_R/dplyr/wine.csv")
+setwd("~/path/namefile.csv")
 wine <- read.csv("wine.csv", stringAsFactors = FALSE, encoding = "UT-8")
 wine <- wine[, -c(1, 3)]	
 wine %>% 
