@@ -1,5 +1,5 @@
 # Introduction to dplyr
-library(dyplyr)
+library(dplyr)
 library(ggplot2)
 
 # Usamos un dataset de paises productores de vinos para analizar
