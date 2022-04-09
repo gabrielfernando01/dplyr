@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/gabrielfernando01/dplyr/main/image/logo_dplyr.png)
+![](https://raw.githubusercontent.com/gabrielfernando01/dplyr/master/image/logo_dplyr.png)
 
 # dplyr
 
