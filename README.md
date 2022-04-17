@@ -32,7 +32,7 @@ Una vez descargado, descomprime el archivo y muevelo en un lugar que recuerdes. 
 
 Una vez abierto el IDE Rstudio, lo primero que haremos es pasarte el dataset a R, hay diferentes formas de hacer esto, en lo particular, yo prefiero en la pestaña 'Files' y elegimos en el menú 'More', Set As Working Directory, que es lo equivalente a ocupar el comando setwd().
 
-![](https://raw.githubusercontent.com/gabrielfernando01/dplyr/master/image/setwd.png)
+![](https://raw.githubusercontent.com/gabrielfernando01/dplyr/master/image/setwd.gif)
 
 
 
